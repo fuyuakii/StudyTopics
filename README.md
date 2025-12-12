@@ -19,6 +19,36 @@
 ## 📂 Estrutura do Repositório (Repository Structure)
 
 ```text
+├── DataBaseExercices
+│   ├── 01_Criacao_Tabelas
+│   │   ├── ex1.sql
+│   │   └── README.md
+│   ├── 02_Chaves
+│   │   ├── ex2.sql
+│   │   └── README.md
+│   ├── 03_Usuarios
+│   │   ├── ex3.sql
+│   │   └── README.md
+│   ├── 04_Privilegios
+│   │   ├── ex4.sql
+│   │   └── README.md
+│   ├── 05_Perfis
+│   │   ├── ex5.sql
+│   │   └── README.md
+│   ├── 06_Introducao_Procedimentos
+│   │   ├── ex1.sql
+│   │   ├── ex2.sql
+│   │   ├── ex3.sql
+│   │   ├── ex4.sql
+│   │   ├── ex5.sql
+│   │   └── README.md
+│   └── 07_Funcoes_Matematicas
+│       ├── ex1.sql
+│       ├── ex2.sql
+│       ├── ex3.sql
+│       ├── ex4.sql
+│       ├── ex5.sql
+│       └── README.md
 ├── Docker
 │   └── apache-hardening
 │       ├── Dockerfile

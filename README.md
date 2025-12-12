@@ -43,6 +43,29 @@ Sobre Docker em si, aprendemos tópicos como: manipulação de imagens, serviço
 
 Para representar uma parcela do que vimos, escolhi colocar no repositório um simples projeto: a primeira parte consiste em um **Hardening de Apache** e a segunda parte em um **Dockerfile** para o Hardening do Apache.
 
+```
+#Dockerfile-Hardening-Apache
+#---------------------------#
+#Criar um diretório para o projeto
+mkdir apache-hardening
+cd apache-hardening
+
+# Conteúdo do Dockerfile
+vim Dockerfile
+
+FROM httpd
+RUN sed -i 's/Options Indexes FollowSymLinks/Options FollowSymLinks/' /usr/local/apache2/conf/httpd.conf
+RUN rm /usr/local/apache2/htdocs/index.html
+CMD ["httpd-foreground"]
+
+# Criar a imagem Docker
+docker build -t apache-hardening .
+
+# Executar um contêiner com a imagem personalizada
+docker run -d -p 80:80 --name meu-apache-container apache-hardening
+```
+
+
 
 </details>
 

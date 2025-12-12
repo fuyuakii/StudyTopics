@@ -163,7 +163,6 @@ These scripts were created in courses such as **Systems Auditing**, **Computer N
 
 </details>
 
-
 ---
 
 <p align="center">

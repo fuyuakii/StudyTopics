@@ -120,6 +120,7 @@ O assunto de **iptables** é abordado desde o terceiro semestre, mas é aprofund
 
 <details>
 <summary><b>Sobre PL/SQL</b></summary>
+  
 Esse tópico foi abordado durante duas disciplinas de SQL, mas foi na disciplina de **Segurança de Banco de Dados** que teve maior destaque. 
 
 Nessa disciplina, utilizamos o **MariaDB** e aprendemos desde conceitos básicos, como comandos de listagem, criação, exclusão, uso e visualização de tabelas e estruturas, até a tipagem de dados. Estudamos também os tipos de chaves (**primária, única e estrangeira**), controle de acesso (formas de autenticação, visualização, criação e exclusão de usuários, alteração de senhas, visualização das permissões do usuário, permissões no MariaDB, ocultação de usuários e herança de permissões) e controle de permissões (atribuição de privilégios a usuários e perfis). 

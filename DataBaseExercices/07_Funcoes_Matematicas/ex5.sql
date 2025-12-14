@@ -1,12 +1,9 @@
--- Criar ou substituir o banco de dados atividade5
 CREATE DATABASE IF NOT EXISTS atividade5;
 USE atividade5;
 
--- Definir o conjunto de caracteres e delimitador
 CHARSET utf8;
 DELIMITER //
 
--- Criar ou substituir a procedure atividade
 CREATE OR REPLACE PROCEDURE atividade(
     IN x1 DECIMAL(3,1),
     IN x2 DECIMAL(3,1),
@@ -35,5 +32,4 @@ DELIMITER ;
 -- Executar o script atv.sql
 SOURCE atv.sql;
 
--- Chamar a procedure atividade com valores específicos para x1, x2, y1 e y2 e exibir a distância entre os pontos
 CALL atividade(3.0, 4.0, 5.0, 9.0, @dist);

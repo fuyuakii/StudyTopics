@@ -1,12 +1,9 @@
--- Criar ou substituir o banco de dados atividade1
 CREATE DATABASE IF NOT EXISTS atividade1;
 USE atividade1;
 
--- Definir o conjunto de caracteres e delimitador
 CHARSET utf8;
 DELIMITER //
 
--- Criar ou substituir a procedure atividade
 CREATE OR REPLACE PROCEDURE atividade(
     OUT volume DECIMAL(5,2),
     OUT area DECIMAL(5,2)
@@ -30,5 +27,4 @@ DELIMITER ;
 -- Executar o script atv.sql
 SOURCE atv.sql;
 
--- Chamar a procedure atividade e exibir os resultados
 CALL atividade(@volume, @area);

@@ -5,18 +5,25 @@
   />
 </p>
 
+---
+
 # **`Tópicos de Estudo (StudyTopics)`**
 
+>[!IMPORTANT]
 > O foco deste repositório é reunir scripts avulsos de tópicos de estudo que desenvolvi enquanto estudava na Fatec Ourinhos. Inclui, por exemplo, materiais relacionados a Docker, iptables, PL/SQL, scripts de configuração, auditoria e monitoramento de servidores, entre outros assuntos que serão abordados e ampliados gradualmente.
 
 ---
 
+>[!IMPORTANT]
 > The focus of this repository is to collect standalone scripts on various study topics that I developed while studying at Fatec Ourinhos. It includes, for example, materials related to Docker, iptables, PL/SQL, configuration scripts, server auditing and monitoring, among other subjects that will be gradually expanded over time.
 
 
 ---
 
 ## 📂 Estrutura do Repositório (Repository Structure)
+
+<details>
+  <summary><b>Abrir para visualizar (Open to view)</b></summary>
 
 ```text
 ├── DataBaseExercices
@@ -72,6 +79,8 @@
     ├── verLogin.sh
     └── verService.sh
 ```
+
+ </details>
 
 
 

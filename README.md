@@ -213,6 +213,16 @@ These scripts were created in courses such as **Systems Auditing**, **Computer N
 
 ---
 
+## Repositório Recomendado (Recommended Repository)
+
+<p align="center">
+  <a href="https://github.com/fuyuakii/General-Laboratories">
+    <img src="https://svg.bookmark.style/api?url=https://github.com/fuyuakii/General-Laboratories&mode=dark&style=horizontal" alt="General-Laboratories"/>
+  </a>
+</p>
+
+---
+
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&height=100&color=00007c&section=footer"

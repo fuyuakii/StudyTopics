@@ -222,6 +222,17 @@ These scripts were created in courses such as **Systems Auditing**, **Computer N
 </p>
 
 ---
+---
+
+<p align="center">
+  <table align="center">
+    <tr>
+      <td><img src="https://dynamic-repo-badges.vercel.app/svg/count/5/Repository%20Views/https://github.com/fuyuakii/StudyTopics" width="600"/></td>
+      <td><img src="https://ishan-rest.vercel.app/svg/banner/blackhole/:)" width="400"/></td>
+    </tr>
+  </table>
+</p>
+
 
 <p align="center">
   <img

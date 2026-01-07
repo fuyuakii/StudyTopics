@@ -214,6 +214,8 @@ These scripts were created in courses such as **Systems Auditing**, **Computer N
 
 </details>
 
+![Graph Project](Scripts/project.svg)
+
 ---
 
 ## Repositório Recomendado (Recommended Repository)
@@ -224,7 +226,6 @@ These scripts were created in courses such as **Systems Auditing**, **Computer N
   </a>
 </p>
 
----
 ---
 
 <p align="center">
